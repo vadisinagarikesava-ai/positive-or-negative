@@ -1,0 +1,5 @@
+Time=0  | Number=25  | Positive=1 | Negative=0 | Zero=0
+Time=10 | Number=-15 | Positive=0 | Negative=1 | Zero=0
+Time=20 | Number=0   | Positive=0 | Negative=0 | Zero=1
+Time=30 | Number=7   | Positive=1 | Negative=0 | Zero=0
+Time=40 | Number=-8  | Positive=0 | Negative=1 | Zero=0
